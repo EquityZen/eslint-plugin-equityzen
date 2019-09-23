@@ -1,0 +1,16 @@
+{
+  "name": "eslint-plugin-equityzen",
+  "version": "0.1.0",
+  "description": "EquityZen custom ESLint plugins",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./test/**/*.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^6.4.0",
+    "mocha": "^6.2.0"
+  }
+}
